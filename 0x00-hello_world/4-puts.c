@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
- * main - Printing
- * 
- * Return: Always 0 (Succesful)
+ * main - Prints the phrase "programming is like building a multilingual puzzle
+ * Return: 0 if exited proprely, non-zeor otherwise 
  * /
  int main(void)
  {
